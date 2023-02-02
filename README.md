@@ -1,9 +1,9 @@
 # Manual de usuario del software SYAL de SERTECPET
 
-## Requisitos para el uso
-## Configuración del pozo
+## [Requisitos](requisitos.md)
+## [Configuración del pozo](pozo.md)
 ## [PVT](pvt.md)
-## Completamiento
-## IPR
-## Flujo
-## Selección de bomba jet
+## [Completamiento](completamiento.md)
+## [IPR](ipr.md)
+## [Flujo](flujo.md)
+## [Selección de bomba jet](jet.md)
