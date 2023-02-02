@@ -2,7 +2,7 @@
 
 ## Requisitos para el uso
 ## Configuración del pozo
-## PVT
+## [PVT](pvt.md)
 ## Completamiento
 ## IPR
 ## Flujo
