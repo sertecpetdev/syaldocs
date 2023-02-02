@@ -10,7 +10,7 @@ El uso de SYAL está limitado a los colaboradores y clientes de SERTECPET. Cuand
 
 https://syal.sertecpet.net
 
-# Vigencia de la licencia
+## Vigencia de la licencia
 
 Todos los usuarios reciben una licencia para usar el software durante un año, contado a partir de la fecha de registro del nuevo usuario. Cuando haya pasado el tiempo de vigencia, el acceso a la aplicación será bloqueado automáticamente y deberá solicitar la renovación de la misma al correo syalsupport@sertecpet.net
 
